@@ -27,32 +27,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-### 🧿 [PixelBrain — Intelligent AI Photo Platform](https://github.com/devraj-saini-02/PixelBrainMain)
-> Multi-stage vision pipeline with **92%+ classification accuracy**
-
-- 🔬 3 custom CNNs + YOLOv8 + DeepFace with an LLM decision layer
-- ⚡ Sub-5 second end-to-end inference latency
-- 🐳 Fully Dockerized with FastAPI + PostgreSQL backend
-- 🖼️ Prompt-based image editing via Cloudinary
-
-`Python` `TensorFlow` `YOLOv8` `FastAPI` `PostgreSQL` `Docker`
-
----
-
-### 🌾 [AgriConnect — Cultivating Connection](https://github.com/devraj-saini-02/AgriConnect)
-> Full-stack crop trading platform bridging farmers & buyers with AI
-
-- 🤖 AI agent **KrishiSaathi** for agricultural assistance
-- 📈 ANN-based crop price prediction with **MAE of 0.08**
-- 🧬 Genetic Algorithm recommendation system for farmer-buyer matching
-- 🌿 ResNet image classifier for crop quality with **96% accuracy**
-
-`Python` `FastAPI` `TensorFlow` `Hugging Face` `React` `Supabase`
-
----
-
 ## 🛠️ Tech Stack
 
 | Category | Tools |
