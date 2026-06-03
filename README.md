@@ -27,6 +27,32 @@
 
 ---
 
+## 🚀 Featured Projects
+
+### 🧿 [PixelBrain — Intelligent AI Photo Platform](https://github.com/devraj-saini-02/PixelBrainMain)
+> Multi-stage vision pipeline with **92%+ classification accuracy**
+
+- 🔬 3 custom CNNs + YOLOv8 + DeepFace with an LLM decision layer
+- ⚡ Sub-5 second end-to-end inference latency
+- 🐳 Fully Dockerized with FastAPI + PostgreSQL backend
+- 🖼️ Prompt-based image editing via Cloudinary
+
+`Python` `TensorFlow` `YOLOv8` `FastAPI` `PostgreSQL` `Docker`
+
+---
+
+### 🌾 [AgriConnect — Cultivating Connection](https://github.com/devraj-saini-02/AgriConnect)
+> Full-stack crop trading platform bridging farmers & buyers with AI
+
+- 🤖 AI agent **KrishiSaathi** for agricultural assistance
+- 📈 ANN-based crop price prediction with **MAE of 0.08**
+- 🧬 Genetic Algorithm recommendation system for farmer-buyer matching
+- 🌿 ResNet image classifier for crop quality with **96% accuracy**
+
+`Python` `FastAPI` `TensorFlow` `Hugging Face` `React` `Supabase`
+
+---
+
 ## 🛠️ Tech Stack
 
 | Category | Tools |
@@ -49,22 +75,15 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
-<!-- GitHub Streak Stats — reliable hosted endpoint -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=devraj-saini-02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-<br/>
-
-<!-- GitHub Profile Trophy — separate stable service -->
-[![Trophy](https://github-profile-trophy.vercel.app/?username=devraj-saini-02&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
-
-<br/>
-
-<!-- Activity Graph — alternative to readme-stats -->
 [![Devraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devraj-saini-02&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+<br/>
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=devraj-saini-02&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -73,7 +92,5 @@
 <div align="center">
 
 *✨ Thanks for stopping by! Let's build something cool together.*
-
-![Visitor Badge](https://komarev.com/ghpvc/?username=devraj-saini-02&color=blueviolet&style=flat-square)
 
 </div>
