@@ -25,7 +25,6 @@
 - 🌱 Deep-diving into **LLMs, Computer Vision & Backend Engineering**
 - ⚡ Fun fact: I solve DSA problems the way others scroll reels — obsessively
 
-
 ---
 
 ## 🛠️ Tech Stack
@@ -44,7 +43,7 @@
 | 🥇 | Achievement |
 |---|---|
 | ⚔️ | **LeetCode Knight** — Rating **1911** · 500+ problems solved |
-| 🟦 | **Codeforces Specialist** — Rating **1530** · 400+ problems solved |
+| 🟦 | **Codeforces Specialist** — Rating **1502** · 400+ problems solved |
 | 🥉 | **2nd Runner-up** — All-Delhi KV Science Quiz 2022 (100+ teams) |
 | 🤖 | **GeeksforGeeks** Machine Learning Bootcamp |
 
@@ -54,9 +53,18 @@
 
 <div align="center">
 
-![Devraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=devraj-saini-02&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+<!-- GitHub Streak Stats — reliable hosted endpoint -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=devraj-saini-02&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=devraj-saini-02&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
+<!-- GitHub Profile Trophy — separate stable service -->
+[![Trophy](https://github-profile-trophy.vercel.app/?username=devraj-saini-02&theme=tokyonight&no-frame=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+<br/>
+
+<!-- Activity Graph — alternative to readme-stats -->
+[![Devraj's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=devraj-saini-02&theme=tokyo-night&hide_border=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -66,21 +74,6 @@
 
 *✨ Thanks for stopping by! Let's build something cool together.*
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devraj-saini-02.devraj-saini-02)
+![Visitor Badge](https://komarev.com/ghpvc/?username=devraj-saini-02&color=blueviolet&style=flat-square)
 
 </div>
-
-<!--
-**devraj-saini-02/devraj-saini-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
