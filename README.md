@@ -68,7 +68,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=devraj-saini-02.devraj-saini-02)
 
-</div>## Hi there 👋
+</div>
 
 <!--
 **devraj-saini-02/devraj-saini-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
