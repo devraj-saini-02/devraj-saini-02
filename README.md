@@ -9,7 +9,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F8ACB&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;From+pixels+to+predictions.;3rd-Year+B.Tech+%40+NSUT+%F0%9F%8E%93;LeetCode+Knight+%E2%9A%94%EF%B8%8F+%7C+CF+Specialist+%F0%9F%9F%A6" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=1F8ACB&center=true&vCenter=true&width=650&lines=Building+things+that+actually+work.;From+pixels+to+predictions.;4th-Year+B.Tech+%40+NSUT+%F0%9F%8E%93;LeetCode+Knight+%E2%9A%94%EF%B8%8F+%7C+CF+Specialist+%F0%9F%9F%A6" alt="Typing SVG" /></a>
 
 <img src="https://komarev.com/ghpvc/?username=devraj-saini-02&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS"/>
 
